@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rambu Pintar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="selogan">Kenali Rambu dan Jadilah Pelopor Keselamatan Berkendara</string>
+    <string name="speech_prompt">Katakan Sesuatu !!!</string>
+    <string name="speech_not_supported">Maaf Speech To Text Tidak Berfungsi !!!</string>
+    <string name="tap_on_mic">Tap Tombol Mic Untuk Berbicara</string>
+    <string name="tentang_aplikasi">Aplikasi ini dibuat dan diajukan untuk melengkapi persyaratan mencapai gelar sarjana.
+         Serta ditujukan sebagai media pembelajaran dan pengenalan Rambu-rambu Lalulintas, dan menjadi
+        pelopor keselamatan berkendara dan tertib Berlalulintas.
+    </string>
+    <string name="info_pengembang">Nama\t: Saepuloh\nNmp\t: 201243501087\ne-mail: <a href='saepulohzone@gmail.com'>saepulohzone@gmail.com</a>\nProgram Studi\t: Teknik Informatika\nUniversitas\t\t: Indraprasta PGRI
+    </string>
+    <string name="catatan">1.\tGunakan Google Text To Specch sebagai mesin utama untuk memutar audio penjelasan rambu.\n\n
+        2.\tAtur bahasa default smartphone ke dalam Bahasa Indonesia.\n\n
+        3.\tAktifkan paket bila Google Text-To-Specch belum terpasang di smartphone.\n\n
+        4.\tAktifkan paket data bila ingin melakukan pencarian rambu menggunakan penelusuran suara.\n\n
+        5.\tAtur bahasa default smartphone ke dalam Bahasa Indonesia.\n
+    </string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLarangan">#ff060d</color>
+    <color name="colorPerintah">#5b6ed7</color>
+    <color name="colorPeringatan">#fad9e601</color>
+    <color name="colorPetunjuk">#3F51B5</color>
+    <color name="colorHome">#FFEE145B</color>
+    <color name="colorCollaps">#fffefe</color>
+</resources>

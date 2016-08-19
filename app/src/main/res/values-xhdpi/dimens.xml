@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imagesize">70dp</dimen>
+    <dimen name="imagesizeNav">90dp</dimen>
+    <dimen name="nav_header_height">210dp</dimen>
+    <dimen name="app_bar_height">370dp</dimen>
+</resources>

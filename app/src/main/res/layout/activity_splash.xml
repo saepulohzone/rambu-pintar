@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorHome"
+    android:theme="@android:style/Theme.NoTitleBar">
+
+    <ImageView
+        android:layout_width="@dimen/imagesize"
+        android:layout_height="@dimen/imagesize"
+        android:id="@+id/image"
+        android:layout_gravity="center"
+        android:background="@drawable/ic_app_white"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

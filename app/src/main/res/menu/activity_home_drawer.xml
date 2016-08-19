@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_larangan"
+            android:icon="@mipmap/nav_larangan"
+            android:title="Rambu Larangan" />
+
+        <item android:id="@+id/nav_perintah"
+            android:icon="@mipmap/nav_perintah"
+            android:title="Rambu Perintah" />
+
+        <item android:id="@+id/nav_peringatan"
+            android:icon="@mipmap/nav_peringatan"
+            android:title="Rambu Peringatan" />
+
+        <item android:id="@+id/nav_petunjuk"
+            android:icon="@mipmap/nav_petunjuk"
+            android:title="Rambu Petunjuk" />
+
+    </group>
+
+
+            <item android:id="@+id/nav_tentang"
+                android:icon="@mipmap/tentang_app"
+                android:title="Tentang Aplikasi" />
+            <item android:id="@+id/nav_keluar"
+                android:icon="@mipmap/nav_keluar"
+                android:title="Keluar" />
+
+</menu>
